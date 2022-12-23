@@ -6,8 +6,8 @@ import NewExpense from './components/NewExpense/NewExpense'
 
 const DUMMY_EXPENSES = [
   {id:"e1", title:"title A", amount:21, date:new Date(2022,12,23)},
-  {id:"e2", title:"title B", amount:22, date:new Date(2022,12,24)},
-  {id:"e3", title:"title C", amount:23, date:new Date(2022,12,25)},
+  {id:"e2", title:"title B", amount:22, date:new Date(2023,12,24)},
+  {id:"e3", title:"title C", amount:23, date:new Date(2020,12,25)},
 ]
 
 
